@@ -10,9 +10,8 @@ function pickLLM() {
         file.endsWith('.pllm') || file.endsWith('.llm')
     );
 
-    if (llmFiles.length === 0) {
+    if (llmFiles.length === 0)
         throw new Error('No LLM files found in the llm directory');
-    }
 
     const filesWithSizes = llmFiles.map(file => {
         const filePath = path.join(llmDir, file);
