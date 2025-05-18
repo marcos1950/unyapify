@@ -1,5 +1,5 @@
 # unyapify
-Shortens a sentence as short as possible using Local AI.
+An API that shortens a sentence as short as possible using Local AI.
 
 ## Setup
 
