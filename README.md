@@ -25,7 +25,7 @@ npm start
 **Endpoint:** POST `/unyapify`
 
 ## Example using powershell
-```bash
+```posh
 Invoke-WebRequest -Method POST `
    -Headers @{"Content-Type"="application/json"} `
    -Body '{"text":"I love cats with all my heart I wouldnt know what to do without them"}' `
